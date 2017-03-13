@@ -1,3 +1,6 @@
+## Author: Yin Huang
+## This creates a server listening on the port 13037
+
 from socket import *
 import sys
 
